@@ -2,3 +2,7 @@ name: 'Daniel Wentsch'
 super: true
 id: 6e188763-5717-4ec4-95cc-5185ccaabe1f
 password_hash: $2y$10$g6KOJCRWKuXo0XPHc7VuYupH.5PgHkAQxZh.d7Y3oNugcli1Z9zXG
+preferences:
+  taxonomies:
+    categories:
+      after_save: continue_editing
